@@ -10,7 +10,7 @@ connections that no one else has found.
 
 
 <span id="page_362"></span>
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch16exe1"></span>**16-1. San Francisco:** Are temperatures in
 San Francisco more like temperatures in Sitka or temperatures in Death
@@ -43,7 +43,7 @@ in for any locations you&rsquo;re curious about.
 
 
 <span id="page_375"></span>
-## TRY IT YOURSELF #2
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch16exe5"></span>**16-5. All Countries:** On the population
 maps we made in this section, our program couldn&rsquo;t automatically find
