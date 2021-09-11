@@ -25,7 +25,19 @@ CSV file.)
 temperature scales on the Sitka and Death Valley graphs reflect the
 different ranges of the data. To accurately compare the temperature
 range in Sitka to that of Death Valley, you need identical scales on the
-y-axis. Change the settings for the y-axis on one or both of the charts
+y-axis.
+
+ <span id="ch16fig5"></span>
+| Figure 16-5   |
+| ---           |
+|![Daily high and low temperatures for the data set. The region between the two data sets is shaded.](./figures/f16-05.jpg) |
+
+<span id="ch16fig6"></span>
+| Figure 16-6   |
+| ---           |
+| ![Daily high and low temperatures for Death Valley, CA. The region between the two data sets is shaded.](./figures/f16-06.jpg) |
+
+Change the settings for the y-axis on one or both of the charts
 in [Figures 16-5](#ch16fig5) and [16-6](#ch16fig6),
 and make a direct comparison between temperature ranges in Sitka and
 Death Valley (or any two places you want to compare). You can also try
