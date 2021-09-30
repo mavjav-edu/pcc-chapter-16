@@ -52,7 +52,7 @@ working, run it for a full year&rsquo;s data.
 visualizations that examine any other weather aspect you&rsquo;re interested
 in for any locations you&rsquo;re curious about.
 
-
+![GitHub globe](https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=480%2C308)
 
 <span id="page_375"></span>
 ## TRY IT YOURSELF Ⓑ
@@ -66,7 +66,7 @@ the correct country code values for these specific countries:
 
 ``` python
 if country_name == 'Yemen, Rep.'
-┬á┬á┬á┬áreturn 'ye'
+    return 'ye'
 elif --snip--
 ```
 
@@ -89,6 +89,8 @@ files, two of which are labeled *Metadata*; use the third CSV file.
 Write a program that generates a dictionary with Pygal&rsquo;s two-letter
 country codes as its keys and your chosen data from the file as its
 values. Plot the data on a `Worldmap` and style the map as you like.
+
+![Idil Keysan illustrates Wikipedia](https://wikimediafoundation.org/wp-content/uploads/2019/08/Idil-Keysan-GIFs-viewcount.gif)
 
 <span id="ch16exe8"></span>**16-8. Testing the** `country_codes`
 **Module:** When we wrote the `country_codes` module, we used `print`
